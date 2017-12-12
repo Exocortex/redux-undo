@@ -1,5 +1,5 @@
 {
-  "name": "redux-undo",
+  "name": "@exocortex/redux-undo",
   "version": "1.0.0-beta9-9-7",
   "description": "simple undo/redo functionality for redux state containers",
   "main": "lib/index.js",
